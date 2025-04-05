@@ -9,4 +9,4 @@ allowVolumeExpansion: true
 parameters:
   csi.storage.k8s.io/fstype: xfs
   type: gp3
-  encrypted: "true
+  encrypted: "true"
